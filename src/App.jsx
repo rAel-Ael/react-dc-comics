@@ -5,6 +5,7 @@ import ProductZone from "./components/ProductZone";
 import Footer0 from "./components/Footer0";
 import Footer0Right from "./components/Footer0Right";
 import Footer1 from "./components/Footer1";
+import "./index.css";
 function App() {
   return (
     <>

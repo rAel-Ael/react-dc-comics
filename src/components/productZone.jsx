@@ -1,7 +1,8 @@
+
 function ProductZone() {
     return (
         
-            <div>
+            <div className="product-zone">
                 <div>
                     <img src="/img/buy-comics-digital-comics.png" alt="n1" />
                     <p>digital comics</p>
