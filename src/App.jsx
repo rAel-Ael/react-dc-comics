@@ -15,7 +15,7 @@ function App() {
       <ProductZone />
       <Footer0/>
       <Footer0Right />
-      <Footer1/>
+      <Footer1 />
     </>
   );
 }
